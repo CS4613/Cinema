@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "541855219429",
+    "firebase_url": "https://cinematics-fdb53.firebaseio.com",
+    "project_id": "cinematics-fdb53",
+    "storage_bucket": "cinematics-fdb53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541855219429:android:14f2e0090f42afee",
+        "android_client_info": {
+          "package_name": "org.snowcorp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541855219429-ch8gk87odar4gs2ug8bfgu3ga2ovrgrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrtZgiOMUYnf53FqaMSkFc-AS_5CLFBn0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

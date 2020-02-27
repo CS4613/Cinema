@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/movieList"
+            android:checked="true"
+            android:icon="@drawable/ic_movie_list"
+            android:title="Movie List" />
+        <item
+            android:id="@+id/calendar"
+            android:icon="@drawable/calendar"
+            android:title="Movie Calendar" />
+
+        <item
+            android:id="@+id/booking"
+            android:icon="@drawable/ic_booking"
+            android:title="Booking" />
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_about"
+            android:title="About Us" />
+
+    </group>
+
+    <group
+        android:id="@+id/my_id"
+        android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout" />
+    </group>
+
+</menu>

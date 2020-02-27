@@ -1,0 +1,51 @@
+package io.realm;
+
+
+public interface MovieDetailsRealmProxyInterface {
+    public Boolean realmGet$adult();
+    public void realmSet$adult(Boolean value);
+    public String realmGet$backdropPath();
+    public void realmSet$backdropPath(String value);
+    public org.snowcorp.app.model.BelongsToCollection realmGet$belongsToCollection();
+    public void realmSet$belongsToCollection(org.snowcorp.app.model.BelongsToCollection value);
+    public Integer realmGet$budget();
+    public void realmSet$budget(Integer value);
+    public RealmList<org.snowcorp.app.model.Genre> realmGet$genres();
+    public void realmSet$genres(RealmList<org.snowcorp.app.model.Genre> value);
+    public String realmGet$homepage();
+    public void realmSet$homepage(String value);
+    public Integer realmGet$id();
+    public void realmSet$id(Integer value);
+    public String realmGet$imdbId();
+    public void realmSet$imdbId(String value);
+    public String realmGet$originalLanguage();
+    public void realmSet$originalLanguage(String value);
+    public String realmGet$originalTitle();
+    public void realmSet$originalTitle(String value);
+    public String realmGet$overview();
+    public void realmSet$overview(String value);
+    public Double realmGet$popularity();
+    public void realmSet$popularity(Double value);
+    public String realmGet$posterPath();
+    public void realmSet$posterPath(String value);
+    public RealmList<org.snowcorp.app.model.ProductionCompany> realmGet$productionCompanies();
+    public void realmSet$productionCompanies(RealmList<org.snowcorp.app.model.ProductionCompany> value);
+    public String realmGet$releaseDate();
+    public void realmSet$releaseDate(String value);
+    public Integer realmGet$revenue();
+    public void realmSet$revenue(Integer value);
+    public Integer realmGet$runtime();
+    public void realmSet$runtime(Integer value);
+    public String realmGet$status();
+    public void realmSet$status(String value);
+    public String realmGet$tagline();
+    public void realmSet$tagline(String value);
+    public String realmGet$title();
+    public void realmSet$title(String value);
+    public Boolean realmGet$video();
+    public void realmSet$video(Boolean value);
+    public Double realmGet$voteAverage();
+    public void realmSet$voteAverage(Double value);
+    public Integer realmGet$voteCount();
+    public void realmSet$voteCount(Integer value);
+}
