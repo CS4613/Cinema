@@ -1,10 +1,7 @@
 
-#Cinematics
+# Cinematics
 
-Nishchit Pandey
-Department of Computer Science, Arkansas State University, Jonesboro, Arkansas, USA
-Mobile Application Development (Dr. Jake A. Qualls)
-
+### Developer: Nishchit Pandey
 
 We all love a nice movie. Keeping this in mind, I have decided to make a web-based movie review project for android users. It will provide an evaluation on most movies making it easier for the users to pass their time on quality films. This app will update users regularly with more choices and options of new and upcoming movies giving them an ultimate platform for searching movies they are interested in. Users can login and provide reviews and ratings on the movies they prefer. Based on these recommendations, one can easily find what they’re looking for. One more feature that I want to add will be giving people a chance to connect through movies to discuss their favorite movies. We all can have a debate about “WAS THANOS RIGHT OR WRONG?”. 
 
