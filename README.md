@@ -1,5 +1,6 @@
 
-Cinematics app
+Cinematics
+
 Nishchit Pandey
 Department of Computer Science, Arkansas State University, Jonesboro, Arkansas, USA
 Mobile Application Development (Dr. Jake A. Qualls)
