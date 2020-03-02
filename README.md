@@ -12,6 +12,29 @@ Also, one must search more than one site in order to find ratings and reviews, u
 
 This app can later be made available for desktop and also for iOS users for a larger number of audiences from all around the globe. 
 
+## Objectives
+The main objectives for the development of the project are:
+
+i.	To provide a single system for all the different tasks like finding the ratings and      reviews, upcoming movies, latest release, etc.
+ii.	To provide an easier and faster arena for all movie lovers.
+
+## Applications
+Some applications of our project are:
+i.	It can be used by movie admirers to review and rate movies they like.
+ii.	It can be used to help users to choose a movie based on their choices and type.
+iii.	It can be used to know about the details and summary of the movies one is searching for.
+iv.	It can be used to gain information about the upcoming movies.
+
+## Project Features
+Some features of our project include:
+i.	Login feature.
+ii.	Rating via stars.
+iii.	Writing reviews for available list of movies.
+iv.	Categorizing movies on the basis of their type.
+v.	Display upcoming movies along with a calendar.
+vi.	Search option.
+
+
 
 
 
