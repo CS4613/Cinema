@@ -34,6 +34,15 @@ iv.	Categorizing movies on the basis of their type.
 v.	Display upcoming movies along with a calendar.
 vi.	Search option.
 
+### Timeline
+3 / 02 / 2020: Updating Github ReadMe
+
+3 / 06 / 2020: Working on account creating database
+
+3 / 11 / 2020: Working on the movie calender.
+
+3 / 21 / 2020: Finalizing the changes for review.
+
 
 
 
