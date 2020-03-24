@@ -46,8 +46,8 @@ vi.	Search option.
 ### Interface
 
 ![](Screenshot_20200324-120122_Cinematics.jpg)
-
-
-
-
-
+![] (Screenshot_20200324-120156_Cinematics.jpg)
+![](Screenshot_20200324-120200_Cinematics.jpg)
+![](Screenshot_20200324-120205_Cinematics.jpg)
+![](Screenshot_20200324-120210_Cinematics.jpg)
+![](Screenshot_20200324-120232_Cinematics.jpg)
