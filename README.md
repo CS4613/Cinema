@@ -43,6 +43,8 @@ vi.	Search option.
 
 3 / 21 / 2020: Finalizing the changes for review.
 
+3 / 28 / 2020: Working on booking and Calendar
+
 ### Interface
 
 ![](Screenshot_20200324-120122_Cinematics.jpg)
