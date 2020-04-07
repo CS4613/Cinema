@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\nishc\\Downloads\\Android-Intro-Slider-Screen-master-20200123T171024Z-001\\movie\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt\\values-pt.xml",
+            "outputFile": "C:\\Users\\nishc\\Desktop\\Project Cinema\\Cinema\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt\\values-pt.xml",
             "map": [
                 {
                     "source": "C:\\Users\\nishc\\.gradle\\caches\\transforms-2\\files-2.1\\ba4151b95d2445b1093f9d10770c94a2\\res\\values-pt\\values-pt.xml",

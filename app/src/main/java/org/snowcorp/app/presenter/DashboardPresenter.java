@@ -8,6 +8,8 @@ import android.widget.TextView;
 
 import org.snowcorp.app.R;
 import org.snowcorp.app.activity.LoginActivity;
+import org.snowcorp.app.fragment.CalendarFragment;
+import org.snowcorp.app.fragment.MovieBookingFragment;
 import org.snowcorp.app.fragment.MovieFragment;
 import org.snowcorp.app.utils.CustomDialog;
 import org.snowcorp.app.utils.GlobalUtils;
@@ -18,7 +20,7 @@ import io.realm.Realm;
 import io.realm.RealmConfiguration;
 
 /**
- * Created by Wongel on 7/14/17.
+ * Created by Nishchit on 03/02/2020.
  */
 
 public class DashboardPresenter {
@@ -39,12 +41,12 @@ public class DashboardPresenter {
                 GlobalUtils.addFragment(context, new MovieFragment(), R.id.container, false);
                 break;
             case R.id.calendar:
-                view.showToast("Working on Calender");
-//                GlobalUtils.addFragment(context, new CalendarFragment(), R.id.container, false);
+                //view.showToast("Working on Calender");
+                GlobalUtils.addFragment(context, new CalendarFragment(), R.id.container, false);
                 break;
             case R.id.booking:
-                view.showToast("Working on Booking");
-//                GlobalUtils.addFragment(context, new MovieBookingFragment(), R.id.container, false);
+               // view.showToast("Working on Booking");
+                GlobalUtils.addFragment(context, new MovieBookingFragment(), R.id.container, false);
                 break;
 //            case R.id.favourite:
 //                GlobalUtils.addFragment(context, new FavouriteFragment(), R.id.container, false);

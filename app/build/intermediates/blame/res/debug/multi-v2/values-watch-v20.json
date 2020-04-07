@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\nishc\\Downloads\\Android-Intro-Slider-Screen-master-20200123T171024Z-001\\movie\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "outputFile": "C:\\Users\\nishc\\Desktop\\Project Cinema\\Cinema\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
             "map": [
                 {
                     "source": "C:\\Users\\nishc\\.gradle\\caches\\transforms-2\\files-2.1\\e7c6c5e45a3a3d8a6b61ff7ade1d6289\\res\\values-watch-v20\\values-watch-v20.xml",
