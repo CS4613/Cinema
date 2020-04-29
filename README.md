@@ -45,6 +45,8 @@ vi.	Search option.
 
 3 / 28 / 2020: Working on booking and Calendar
 
+4 / 05 / 2020: Fixed Calendar.
+
 ### Interface
 
 ![](Screenshot_20200324-120122_Cinematics.jpg)
