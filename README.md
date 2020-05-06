@@ -47,6 +47,8 @@ vi.	Search option.
 
 4 / 05 / 2020: Fixed Calendar.
 
+5/ 02 /2020 Presentation for the project.
+
 ### Interface
 
 ![](Screenshot_20200324-120122_Cinematics.jpg)
